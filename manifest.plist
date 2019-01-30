@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://doc.yeecall.com/buildbot/wallet/enterprise/ios-release/14963.2019-01-15_21-04-30/wallet-release_v1.2.14963-enterprise-inhoc.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://d3g9mc3tdku1jr.cloudfront.net/other/dev/2019_01_14/banko_512x512_1547464354589.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://d3g9mc3tdku1jr.cloudfront.net/other/dev/2019_01_14/banko_57x57_1547464335205.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>app.bankoad.ios</string>
+				<key>bundle-version</key>
+				<string>1.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>BankoWallet</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
